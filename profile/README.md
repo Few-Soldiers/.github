@@ -37,7 +37,7 @@
 
 ### 📊 stats
 <details>
-<summary><b>albavxs</b></summary>
+<summary><b>Paulo Guilherme</b></summary>
 <br/>
 <img src="https://streak-stats.demolab.com?user=albavxs&theme=radical&hide_border=true" width="420"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albavxs&theme=radical" width="340"/>
