@@ -36,26 +36,25 @@
 ---
 
 ### 📊 stats
-
 <details>
 <summary><b>albavxs</b></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=albavxs&show_icons=true&theme=radical&hide_border=true" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albavxs&layout=compact&theme=radical&hide_border=true" width="340"/>
+<img src="https://streak-stats.demolab.com?user=albavxs&theme=radical&hide_border=true" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albavxs&theme=radical" width="340"/>
 </details>
 
 <details>
 <summary><b>AnaHeloisaGoncalves</b></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=AnaHeloisaGoncalves&show_icons=true&theme=radical&hide_border=true" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaHeloisaGoncalves&layout=compact&theme=radical&hide_border=true" width="340"/>
+<img src="https://streak-stats.demolab.com?user=AnaHeloisaGoncalves&theme=radical&hide_border=true" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaHeloisaGoncalves&theme=radical" width="340"/>
 </details>
 
 <details>
 <summary><b>diegosadock</b></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=diegosadock&show_icons=true&theme=radical&hide_border=true" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosadock&layout=compact&theme=radical&hide_border=true" width="340"/>
+<img src="https://streak-stats.demolab.com?user=diegosadock&theme=radical&hide_border=true" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosadock&theme=radical" width="340"/>
 </details>
 
 ---
