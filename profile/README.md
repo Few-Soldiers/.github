@@ -1,7 +1,4 @@
 <div align="center">
-
-# ⚔️ Few Soldiers
-
 **IBMR students and other curious minds. Open source contributors.**
 **We help the community and we help each other — that's the whole point.**
 **Everyone's welcome to join, learn, and build with us.**
