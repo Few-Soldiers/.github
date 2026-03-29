@@ -39,6 +39,12 @@
         <b>Silas Tavares</b>
       </a>
     </td>
+  <td align="center">
+      <a href="https://github.com/nathan0-dev">
+        <img src="https://github.com/nathan0-dev.png" width="100" style="border-radius:50%"/><br/>
+        <b>Nathan0-dev</b>
+      </a>
+    </td>
   </tr>
 </table>
 
