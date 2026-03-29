@@ -32,32 +32,19 @@
         <b>Diego Sadock</b>
       </a>
     </td>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tavaressilas10">
+        <img src="https://github.com/tavaressilas10.png" width="100" style="border-radius:50%"/><br/>
+        <b>Silas Tavares</b>
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 📊 stats
-<details>
-<summary><b>Paulo Guilherme</b></summary>
-<br/>
-<img src="https://streak-stats.demolab.com?user=albavxs&theme=radical&hide_border=true" width="420"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albavxs&theme=radical" width="340"/>
-</details>
 
-<details>
-<summary><b>AnaHeloisaGoncalves</b></summary>
-<br/>
-<img src="https://streak-stats.demolab.com?user=AnaHeloisaGoncalves&theme=radical&hide_border=true" width="420"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaHeloisaGoncalves&theme=radical" width="340"/>
-</details>
-
-<details>
-<summary><b>diegosadock</b></summary>
-<br/>
-<img src="https://streak-stats.demolab.com?user=diegosadock&theme=radical&hide_border=true" width="420"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosadock&theme=radical" width="340"/>
-</details>
 
 ---
 ### 🛠️ stacks
