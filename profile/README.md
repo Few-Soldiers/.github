@@ -19,13 +19,19 @@
         <img src="https://github.com/albavxs.png" width="100" style="border-radius:50%"/><br/>
         <b>Paulo Guilherme</b>
       </a>
+    </td> 
+     <td align="center">
+      <a href="https://github.com/negra1m">
+        <img src="https://github.com/negra1m.png" width="100" style="border-radius:50%"/><br/>
+        <b>Vinicius Negrão</b>
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/AnaHeloisaGoncalves">
         <img src="https://github.com/AnaHeloisaGoncalves.png" width="100" style="border-radius:50%"/><br/>
         <b>Ana Heloísa</b>
       </a>
-    </td>
+    </td> 
     <td align="center">
       <a href="https://github.com/diegosadock">
         <img src="https://github.com/diegosadock.png" width="100" style="border-radius:50%"/><br/>
@@ -45,6 +51,7 @@
         <b>Nathan0-dev</b>
       </a>
     </td>
+  
   </tr>
 </table>
 
