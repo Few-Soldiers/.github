@@ -32,7 +32,7 @@
         <b>Ana Heloísa</b>
       </a>
     </td> 
-    <p></p>
+    <p>
     <td align="center">
       <a href="https://github.com/diegosadock">
         <img src="https://github.com/diegosadock.png" width="100" style="border-radius:50%"/><br/>
