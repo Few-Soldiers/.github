@@ -3,9 +3,9 @@
 # ⚔️ Few Soldiers
 
 <p>
-  IBMR students and other curious minds. Open source contributors.<br/>
-  We help the community and we help each other — that's the whole point.<br/>
-  Everyone's welcome to join, learn, and build with us.
+  We're a group of developers who build production-grade software in the open
+  SaaS products, dev tools, infra systems, and AI-integrated applications. No corporate overhead. 
+  No roadmap theater. Just problems worth solving and code that actually runs.
 </p>
 
 ---
