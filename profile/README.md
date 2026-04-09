@@ -52,6 +52,12 @@
         <b>Nathan0-dev</b>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Pontesmt">
+        <img src="https://github.com/Pontesmt.png" width="100" style="border-radius:50%"/><br/>
+        <b>Pontesv</b>
+      </a>
+    </td>
   
   </tr>
 </table>
