@@ -57,6 +57,11 @@
         <img src="https://github.com/Pontesmt.png" width="100" style="border-radius:50%"/><br/>
         <b>Pontesv</b>
       </a>
+       <td align="center">
+      <a href="https://github.com/nunes-felipe">
+        <img src="https://github.com/nunes-felipe.png" width="100" style="border-radius:50%"/><br/>
+        <b>nunes-felipe</b>
+      </a>
     </td>
   
   </tr>
